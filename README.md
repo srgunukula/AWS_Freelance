@@ -87,7 +87,7 @@ Each target group routes requests to one or more registered targets, such as EC2
 
 The following diagram illustrates the basic components. Notice that each listener contains a default rule, and one listener contains another rule that routes requests to a different target group. One target is registered with two target groups.
 
-
+![Load Balancer components](LB_component_architecture.png)
 
 
 ### Load Balancer Basics
